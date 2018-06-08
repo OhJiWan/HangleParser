@@ -1,0 +1,15 @@
+{
+  "name": "sentencecomparator",
+  "version": "1.0.0",
+  "description": "Sentece Comparator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "OhJiWan",
+  "license": "ISC",
+  "dependencies": {
+    "bindings": "^1.3.0",
+    "nan": "^2.10.0"
+  }
+}

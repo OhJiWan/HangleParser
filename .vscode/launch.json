@@ -1,0 +1,22 @@
+{    
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "(Windows) Launch",
+            "type": "cppvsdbg",
+            "request": "launch",
+            "program": "C:\\ProjectWork\\NodeJsD\\Debug\\node.exe",
+            "args": ["app.js"],
+            "stopAtEntry": false,            
+          //  "symbolSearchPath": "D:\\프로젝트\\18-스마트미러\\SentenceComparator\\build\\Debug",
+          "symbolSearchPath": "D:\\프로젝트\\18-스마트미러\\SentenceComparator\\build\\Release",
+            "cwd": "${workspaceFolder}",
+            "logging": {
+                "moduleLoad": true,
+                "trace": true
+             },
+            "environment": [],
+            "externalConsole": false
+        }
+    ]
+}
