@@ -14,6 +14,11 @@ yarn-error.log*
 *.pdb
 *.lastbuildstate
 
+*.sln
+*.gypi
+*.vcxproj
+*.filters
+
 *.opensdf
 *.sdf
 *.suo
